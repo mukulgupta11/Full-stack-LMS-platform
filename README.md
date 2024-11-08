@@ -1,4 +1,10 @@
-# Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
+# Full stack LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL
+
+[Full stack lms platform](https://full-stack-lms-platform.vercel.app/)
+
+### Demo Video
+[Watch Demonstration video](https://youtu.be/7eekj5GzjDA)
+
 
 
 Key Features:
